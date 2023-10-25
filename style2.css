@@ -1,0 +1,38 @@
+h1{
+	text-shadow:3px 3px 5px grey;
+	color:#ffcc00;
+	text-align: center;
+	font-size:3em;
+	font-family: arial;
+
+}
+#box{
+	height:120px;
+	width: 300px;
+	padding:15px; 
+	box-shadow:5px 5px 5px ; 
+	background-color:grey;
+	color:yellow;
+}
+#box1{
+	height:120px;
+	width: 300px;
+	padding:15px; 
+	box-shadow:5px 5px 5px ; 
+	background-color:grey; 
+	margin-left:400px;
+	color:yellow;
+}
+#box2{
+	height:120px;
+	width: 300px;
+	padding:15px; 
+	box-shadow:5px 5px 5px ; 
+	background-color:grey; 
+margin-left:850px;
+color:yellow;
+}
+body{
+
+	background-color:hsl(172,10%,25%); 
+}

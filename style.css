@@ -1,0 +1,78 @@
+
+body{
+	background-color:lightblue; 
+}
+#h{
+	text-align:center; 
+	text-shadow:3px 3px 5px grey;
+	color:#ffcc00;
+	text-align: center;
+	font-size:3em;
+	font-family: arial;
+
+}
+
+
+.icons{
+
+	font-family:verdna; 
+	font-size:1em; 
+	word-spacing:60px; 
+	position:fixed;
+	right:0px;
+	top:10px;
+	text-transform: none;
+}
+.para{
+	position:relative;
+	max-width: 600px;
+	margin: -3px 0;
+	text-align: center;
+	margin-top:200px;
+	margin-right:50px;
+}
+#h3{
+	color:yellow; 
+	display: inline;
+	text-align: center;
+	font-style: bold;
+}
+
+}
+
+#h1{
+	color:black; 
+	text-align: center;
+	font-style: bold;
+	display: inline;
+
+
+}
+#h2{
+	color:yellow;
+	display: inline;
+	text-align: center;
+	font-style: bold;
+}
+
+#home{
+	display:inline;
+	text-decoration: none;
+}
+
+
+#skils{
+	display: inline;
+	text-decoration:none;
+}
+
+#about{
+	display: inline;
+	text-decoration:none; 
+}
+
+#contact{
+	display: inline;
+	text-decoration:none;
+}
+

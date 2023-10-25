@@ -1,0 +1,43 @@
+h1{
+	text-shadow:3px 3px 5px grey;
+	color:#ffcc00;
+	text-align: center;
+	font-size:2em;
+	font-family: arial;
+
+}
+.name{
+	color:#ffcc00;
+	margin-left: 800px;
+	font-family: cursive;
+	font-size: 0.5em;
+}
+
+body{
+	background-color:hsl(172,10%,25%); 
+
+	}
+	#p{
+	color:white;
+	margin-left:170px;
+
+}
+
+
+/*#vr{
+border-left:3px solid;
+height:300px;
+color:yellow;
+margin-left:150px;
+margin-top:50px;*/
+
+.box{
+	margin-left:130px;
+	margin-top:140px;
+	font-size: 1.5em;
+}
+
+
+
+
+
